@@ -1,7 +1,11 @@
+# Project files and folders
+sample.js
+
 node_modules/
 .expo/
 dist/
 npm-debug.*
+.vscode/
 *.jks
 *.p8
 *.p12
